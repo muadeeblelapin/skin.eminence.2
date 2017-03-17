@@ -52,7 +52,7 @@ msgstr "Affiche les infos du média"
 
 msgctxt "#31008"
 msgid "Show plot overlay in after delay"
-msgstr "Afficher le recouvrement du tracé délai"
+msgstr "Defilement du résumé après un delais"
 
 msgctxt "#31009"
 msgid "Open playlist"
@@ -148,7 +148,7 @@ msgstr "Extra fanart"
 
 msgctxt "#31044"
 msgid "Local subtitle found!"
-msgstr ""
+msgstr "Sous-titre locaux trouvés"
 
 msgctxt "#31045"
 msgid "Supplied by"
@@ -236,7 +236,7 @@ msgstr "Lecture"
 
 msgctxt "#31073"
 msgid "Categories"
-msgstr ""
+msgstr "Catégories"
 
 msgctxt "#31074"
 msgid "Submenu"
@@ -304,7 +304,7 @@ msgstr "personnalisé 4"
 
 msgctxt "#31090"
 msgid "Content Loading"
-msgstr ""
+msgstr "Chargement de contenu"
 
 msgctxt "#31091"
 msgid "Trending Shows"
@@ -504,7 +504,7 @@ msgstr ""
 
 msgctxt "#31140"
 msgid "Show tile colour on unfocused tiles"
-msgstr "Afficher la couleur de la tuile sur le tuile non-active"
+msgstr "Afficher la couleur de la tuile sur la tuile non-active"
 
 msgctxt "#31141"
 msgid "Info icons"
@@ -528,11 +528,11 @@ msgstr "Informations supplémentaires"
 
 msgctxt "#31146"
 msgid "Fanart fallback image"
-msgstr ""
+msgstr "Image Fanart de secours"
 
 msgctxt "#31147"
 msgid "Fallback widget"
-msgstr "Fanart image de secours"
+msgstr "Widget de secours"
 
 msgctxt "#31148"
 msgid "Media Info 3"
@@ -584,7 +584,7 @@ msgstr "Image d'incrustation d'arrière-plan"
 
 msgctxt "#31160"
 msgid "Busy spinner"
-msgstr "Opérateur occupé"
+msgstr "System occupé"
 
 msgctxt "#31161"
 msgid "Backup skin settings"
